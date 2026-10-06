@@ -6,6 +6,8 @@ I work on content validation, structured editorial workflows, reporting and prac
 
 This portfolio documents personal prototypes and learning projects. Each repository distinguishes implemented features, current verification and limitations.
 
+[**View live portfolio →**](https://himanshuc2406.github.io/himanshuc2406/)
+
 ## Project portfolio
 
 | Project | Problem addressed | Tools |
@@ -29,4 +31,4 @@ This portfolio documents personal prototypes and learning projects. Each reposit
 
 [Email](mailto:himanshuc2406@gmail.com) · [LinkedIn](https://www.linkedin.com/in/himansh-chauhan266/)
 
-The `docs/` directory contains a static portfolio suitable for GitHub Pages after repository publication.
+The `docs/` directory powers the live GitHub Pages portfolio, with screenshots and source links for all seven projects.
