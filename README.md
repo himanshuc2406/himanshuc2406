@@ -12,6 +12,7 @@ This portfolio documents personal prototypes and learning projects. Each reposit
 
 | Project | Problem addressed | Tools |
 |---|---|---|
+| [Kridh Capital — Independent Public Demo](https://himanshuc2406.github.io/kridh-capital-demo/) | Review fictional research candidates, portfolio exposure and simulated paper buys while the original engine stays private. | HTML · CSS · JavaScript · SVG · synthetic CSV exports |
 | [Exam Market Radar & Test Factory](https://github.com/himanshuc2406/exam-market-radar) | Turn scattered YouTube signals into a prioritized assessment-production queue. | Python · Flask · JavaScript · SQLite · YouTube Data API · Gemini · OpenPyXL · ReportLab |
 | [Course Content Automation Studio](https://github.com/himanshuc2406/course-content-automation) | Coordinate lesson, quiz and project creation while retaining QA evidence and retryable work. | Python · local HTTP server · Google Drive API · OpenPyXL · Pillow · LLM adapters |
 | [Question Studio — Retrieval-Augmented Drafting POC](https://github.com/himanshuc2406/question-studio-poc) | Create reviewable exam-question drafts from topic references, news or video transcripts. | Python · Flask · keyword retrieval · PDF extraction · YouTube transcripts · configurable LLM endpoint |
@@ -31,4 +32,4 @@ This portfolio documents personal prototypes and learning projects. Each reposit
 
 [Email](mailto:himanshuc2406@gmail.com) · [LinkedIn](https://www.linkedin.com/in/himansh-chauhan266/)
 
-The `docs/` directory powers the live GitHub Pages portfolio, with screenshots and source links for all seven projects.
+The `docs/` directory powers the live GitHub Pages portfolio, with screenshots and source links for all eight projects.
